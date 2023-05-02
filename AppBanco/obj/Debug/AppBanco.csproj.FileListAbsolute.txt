@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+C:\Users\Usuario\Desktop\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.SuggestedBindingRedirects.cache
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+E:\2 ano\curso\DS\mes 4\dia 5\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
